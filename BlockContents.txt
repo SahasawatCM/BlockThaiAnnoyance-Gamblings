@@ -35,6 +35,22 @@
 ##.col-md-8
 ##.bottom-2x.text-center
 ##center
+##.bg-content > div.p1
+##.lazyload
+##.elementor-widget-image.elementor-widget.elementor-element-a17af23.elementor-element
+##.water-mark
+##center
+##center:nth-of-type(1)
+##center:nth-of-type(2)
+##div.col-xs-6
+###panel-497-0-0-1
+##.mbmovepc.container
+##[src="https://ballmun.com/telegram-live.gif"]
+##.panel-default.panel > .container
+##.mt-5-ct.container > div.container
+##.elementor-element-e191604.elementor-element.elementor-top-column.elementor-col-100.elementor-column > .elementor-element-populated.elementor-widget-wrap
+##.elementor-section-height-default.elementor-section-boxed.elementor-element-f970364.elementor-element.elementor-top-section.elementor-section
+
 
 ||doubleclick.net^
 ||ufanance.co^
@@ -65,7 +81,7 @@
 ||kingdom66a.com^
 ||99games.org^
 
-
+lalikabet168.co
 doubleclick.net
 ufanance.co
 lockdown168a.com
@@ -95,7 +111,6 @@ bangkok-city.com
 kingdom66a.com
 99games.org
 
-
 *.doubleclick.net/*
 *.ufanance.co/*
 *.lockdown168a.com/*
@@ -124,3 +139,4 @@ kingdom66a.com
 *.bangkok-city.com/*
 *.kingdom66a.com/*
 *.99games.org/*
+*.lalikabet168.co/*
