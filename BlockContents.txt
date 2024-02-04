@@ -46,7 +46,6 @@
 ###panel-497-0-0-1
 ##.mbmovepc.container
 ##[src="https://ballmun.com/telegram-live.gif"]
-##.panel-default.panel > .container
 ##.mt-5-ct.container > div.container
 ##.elementor-element-e191604.elementor-element.elementor-top-column.elementor-col-100.elementor-column > .elementor-element-populated.elementor-widget-wrap
 ##.elementor-section-height-default.elementor-section-boxed.elementor-element-f970364.elementor-element.elementor-top-section.elementor-section
