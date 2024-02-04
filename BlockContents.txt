@@ -23,6 +23,18 @@
 ##.ads-float
 ##.mb-2.mt-2.text-center.col-md-12.ads
 ###radio_content
+##.ads
+##light
+##div.LazyLoad.Anadvertisement0
+##.img01 > [href]
+##.img > [href]
+##ne611
+##mi410
+##mi405
+##.col-12
+##.col-md-8
+##.bottom-2x.text-center
+##center
 
 ||doubleclick.net^
 ||ufanance.co^
