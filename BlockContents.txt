@@ -81,6 +81,7 @@
 ||kingdom66a.com^
 ||99games.org^
 
+ufazeedz.com
 lalikabet168.co
 doubleclick.net
 ufanance.co
@@ -111,6 +112,8 @@ bangkok-city.com
 kingdom66a.com
 99games.org
 
+
+*.ufazeedz.com/*
 *.doubleclick.net/*
 *.ufanance.co/*
 *.lockdown168a.com/*
