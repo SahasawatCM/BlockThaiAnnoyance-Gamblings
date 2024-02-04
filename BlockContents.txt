@@ -51,7 +51,6 @@
 ##.elementor-element-e191604.elementor-element.elementor-top-column.elementor-col-100.elementor-column > .elementor-element-populated.elementor-widget-wrap
 ##.elementor-section-height-default.elementor-section-boxed.elementor-element-f970364.elementor-element.elementor-top-section.elementor-section
 
-
 ||doubleclick.net^
 ||ufanance.co^
 ||lockdown168a.com^
@@ -80,9 +79,9 @@
 ||bangkok-city.com^
 ||kingdom66a.com^
 ||99games.org^
+||ufazeedz.com^
+||lalikabet168.co^
 
-ufazeedz.com
-lalikabet168.co
 doubleclick.net
 ufanance.co
 lockdown168a.com
@@ -111,9 +110,9 @@ howtouse.org
 bangkok-city.com
 kingdom66a.com
 99games.org
+ufazeedz.com
+lalikabet168.co
 
-
-*.ufazeedz.com/*
 *.doubleclick.net/*
 *.ufanance.co/*
 *.lockdown168a.com/*
@@ -143,3 +142,4 @@ kingdom66a.com
 *.kingdom66a.com/*
 *.99games.org/*
 *.lalikabet168.co/*
+*.ufazeedz.com/*
