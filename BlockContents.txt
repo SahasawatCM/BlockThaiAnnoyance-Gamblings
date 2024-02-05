@@ -1,6 +1,17 @@
 ##.dessert-frame
 ##.kln
 ##ads_fox_bottom
+###ads_fox_bottom > div
+##[src="https://amz-cdn.manga168.com/img/a4ccb630836c4ae577f0e787cec95d10.gif"]
+##[href="https://kingdom66a.com"]
+##[src="https://ballmun.com/telegram-live.gif"]
+##.ads-float
+##.lazyload
+##.bg-content > div.p1
+##.water-mark
+##.ads
+##div.LazyLoad.Anadvertisement0
+
 
 ||doubleclick.net^
 ||ufanance.co^
